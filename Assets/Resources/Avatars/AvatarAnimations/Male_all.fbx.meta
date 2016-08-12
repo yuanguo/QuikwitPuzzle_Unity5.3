@@ -1,0 +1,1960 @@
+fileFormatVersion: 2
+guid: c09f50ebefaa4ca449198b144d871fd3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: boy:body
+    100002: boy:BoyAnim_eye_001_l
+    100004: boy:BoyAnim_eye_001_r
+    100006: boy:BoyAnim_eye_002_l
+    100008: boy:BoyAnim_eye_002_r
+    100010: boy:BoyAnim_eye_003_l
+    100012: boy:BoyAnim_eye_003_r
+    100014: boy:BoyAnim_eye_005_l
+    100016: boy:BoyAnim_eye_005_r
+    100018: boy:BoyAnim_eye_006_l
+    100020: boy:BoyAnim_eye_006_r
+    100022: boy:BoyAnim_eye_009_l
+    100024: boy:BoyAnim_eye_009_r
+    100026: boy:BoyAnim_eye_010_l
+    100028: boy:BoyAnim_eye_010_r
+    100030: boy:BoyAnim_eye_011_l
+    100032: boy:BoyAnim_eye_011_r
+    100034: boy:BoyAnim_eyebrows_001_l
+    100036: boy:BoyAnim_eyebrows_001_r
+    100038: boy:BoyAnim_eyebrows_002_l
+    100040: boy:BoyAnim_eyebrows_002_r
+    100042: boy:BoyAnim_eyebrows_003_l
+    100044: boy:BoyAnim_eyebrows_003_r
+    100046: boy:BoyAnim_eyebrows_004_l
+    100048: boy:BoyAnim_eyebrows_004_r
+    100050: boy:BoyAnim_eyebrows_005_l
+    100052: boy:BoyAnim_eyebrows_005_r
+    100054: boy:BoyAnim_mouth_001
+    100056: boy:BoyAnim_mouth_002
+    100058: boy:BoyAnim_mouth_004
+    100060: boy:BoyAnim_mouth_007
+    100062: boy:BoyAnim_mouth_008
+    100064: boy:BoyAnim_mouth_010
+    100066: boy:BoyAnim_mouth_013
+    100068: boy:hair
+    100070: boy:l_shoe
+    100072: boy:pant
+    100074: boy:r_shoe
+    100076: boy:shirt2
+    100078: boy:tie4
+    100080: expression_set
+    100082: //RootNode
+    100084: RIG_Avatar:Hip_CRTL
+    100086: RIG_Avatar:MAIN_CRTL
+    100088: RIG_Avatar:male_rig:Head
+    100090: RIG_Avatar:male_rig:head_top
+    100092: RIG_Avatar:male_rig:L_ankle
+    100094: RIG_Avatar:male_rig:L_clavicle
+    100096: RIG_Avatar:male_rig:L_elbow
+    100098: RIG_Avatar:male_rig:L_foot
+    100100: RIG_Avatar:male_rig:L_hip
+    100102: RIG_Avatar:male_rig:L_index01
+    100104: RIG_Avatar:male_rig:L_index02
+    100106: RIG_Avatar:male_rig:L_index03
+    100108: RIG_Avatar:male_rig:L_index04
+    100110: RIG_Avatar:male_rig:L_knee
+    100112: RIG_Avatar:male_rig:L_mid01
+    100114: RIG_Avatar:male_rig:L_mid02
+    100116: RIG_Avatar:male_rig:L_mid03
+    100118: RIG_Avatar:male_rig:L_mid04
+    100120: RIG_Avatar:male_rig:L_palm
+    100122: RIG_Avatar:male_rig:L_ring01
+    100124: RIG_Avatar:male_rig:L_ring02
+    100126: RIG_Avatar:male_rig:L_ring03
+    100128: RIG_Avatar:male_rig:L_ring04
+    100130: RIG_Avatar:male_rig:L_sldr
+    100132: RIG_Avatar:male_rig:L_thumb01
+    100134: RIG_Avatar:male_rig:L_thumb02
+    100136: RIG_Avatar:male_rig:L_thumb03
+    100138: RIG_Avatar:male_rig:L_thumb04
+    100140: RIG_Avatar:male_rig:L_tiny01
+    100142: RIG_Avatar:male_rig:L_tiny02
+    100144: RIG_Avatar:male_rig:L_tiny04
+    100146: RIG_Avatar:male_rig:L_toe
+    100148: RIG_Avatar:male_rig:L_wrist
+    100150: RIG_Avatar:male_rig:Ltiny03
+    100152: RIG_Avatar:male_rig:neck
+    100154: RIG_Avatar:male_rig:R_ankle
+    100156: RIG_Avatar:male_rig:R_clavicle
+    100158: RIG_Avatar:male_rig:R_elbow
+    100160: RIG_Avatar:male_rig:R_foot
+    100162: RIG_Avatar:male_rig:R_hip
+    100164: RIG_Avatar:male_rig:R_index01
+    100166: RIG_Avatar:male_rig:R_index02
+    100168: RIG_Avatar:male_rig:R_index03
+    100170: RIG_Avatar:male_rig:R_index04
+    100172: RIG_Avatar:male_rig:R_knee
+    100174: RIG_Avatar:male_rig:R_mid01
+    100176: RIG_Avatar:male_rig:R_mid02
+    100178: RIG_Avatar:male_rig:R_mid03
+    100180: RIG_Avatar:male_rig:R_mid04
+    100182: RIG_Avatar:male_rig:R_palm
+    100184: RIG_Avatar:male_rig:R_ring01
+    100186: RIG_Avatar:male_rig:R_ring02
+    100188: RIG_Avatar:male_rig:R_ring03
+    100190: RIG_Avatar:male_rig:R_ring04
+    100192: RIG_Avatar:male_rig:R_sldr
+    100194: RIG_Avatar:male_rig:R_thumb01
+    100196: RIG_Avatar:male_rig:R_thumb02
+    100198: RIG_Avatar:male_rig:R_thumb03
+    100200: RIG_Avatar:male_rig:R_thumb04
+    100202: RIG_Avatar:male_rig:R_tiny01
+    100204: RIG_Avatar:male_rig:R_tiny02
+    100206: RIG_Avatar:male_rig:R_tiny04
+    100208: RIG_Avatar:male_rig:R_toe
+    100210: RIG_Avatar:male_rig:R_wrist
+    100212: RIG_Avatar:male_rig:ROOT
+    100214: RIG_Avatar:male_rig:Rtiny03
+    100216: RIG_Avatar:male_rig:spine01
+    100218: RIG_Avatar:male_rig:spine02
+    100220: RIG_Avatar:male_rig:spine03
+    100222: RIG_Avatar:tie01
+    100224: RIG_Avatar:tie02
+    100226: RIG_Avatar:tie03
+    100228: RIG_Avatar:tie04
+    100230: RIG_Avatar:tie05
+    400000: boy:body
+    400002: boy:BoyAnim_eye_001_l
+    400004: boy:BoyAnim_eye_001_r
+    400006: boy:BoyAnim_eye_002_l
+    400008: boy:BoyAnim_eye_002_r
+    400010: boy:BoyAnim_eye_003_l
+    400012: boy:BoyAnim_eye_003_r
+    400014: boy:BoyAnim_eye_005_l
+    400016: boy:BoyAnim_eye_005_r
+    400018: boy:BoyAnim_eye_006_l
+    400020: boy:BoyAnim_eye_006_r
+    400022: boy:BoyAnim_eye_009_l
+    400024: boy:BoyAnim_eye_009_r
+    400026: boy:BoyAnim_eye_010_l
+    400028: boy:BoyAnim_eye_010_r
+    400030: boy:BoyAnim_eye_011_l
+    400032: boy:BoyAnim_eye_011_r
+    400034: boy:BoyAnim_eyebrows_001_l
+    400036: boy:BoyAnim_eyebrows_001_r
+    400038: boy:BoyAnim_eyebrows_002_l
+    400040: boy:BoyAnim_eyebrows_002_r
+    400042: boy:BoyAnim_eyebrows_003_l
+    400044: boy:BoyAnim_eyebrows_003_r
+    400046: boy:BoyAnim_eyebrows_004_l
+    400048: boy:BoyAnim_eyebrows_004_r
+    400050: boy:BoyAnim_eyebrows_005_l
+    400052: boy:BoyAnim_eyebrows_005_r
+    400054: boy:BoyAnim_mouth_001
+    400056: boy:BoyAnim_mouth_002
+    400058: boy:BoyAnim_mouth_004
+    400060: boy:BoyAnim_mouth_007
+    400062: boy:BoyAnim_mouth_008
+    400064: boy:BoyAnim_mouth_010
+    400066: boy:BoyAnim_mouth_013
+    400068: boy:hair
+    400070: boy:l_shoe
+    400072: boy:pant
+    400074: boy:r_shoe
+    400076: boy:shirt2
+    400078: boy:tie4
+    400080: expression_set
+    400082: //RootNode
+    400084: RIG_Avatar:Hip_CRTL
+    400086: RIG_Avatar:MAIN_CRTL
+    400088: RIG_Avatar:male_rig:Head
+    400090: RIG_Avatar:male_rig:head_top
+    400092: RIG_Avatar:male_rig:L_ankle
+    400094: RIG_Avatar:male_rig:L_clavicle
+    400096: RIG_Avatar:male_rig:L_elbow
+    400098: RIG_Avatar:male_rig:L_foot
+    400100: RIG_Avatar:male_rig:L_hip
+    400102: RIG_Avatar:male_rig:L_index01
+    400104: RIG_Avatar:male_rig:L_index02
+    400106: RIG_Avatar:male_rig:L_index03
+    400108: RIG_Avatar:male_rig:L_index04
+    400110: RIG_Avatar:male_rig:L_knee
+    400112: RIG_Avatar:male_rig:L_mid01
+    400114: RIG_Avatar:male_rig:L_mid02
+    400116: RIG_Avatar:male_rig:L_mid03
+    400118: RIG_Avatar:male_rig:L_mid04
+    400120: RIG_Avatar:male_rig:L_palm
+    400122: RIG_Avatar:male_rig:L_ring01
+    400124: RIG_Avatar:male_rig:L_ring02
+    400126: RIG_Avatar:male_rig:L_ring03
+    400128: RIG_Avatar:male_rig:L_ring04
+    400130: RIG_Avatar:male_rig:L_sldr
+    400132: RIG_Avatar:male_rig:L_thumb01
+    400134: RIG_Avatar:male_rig:L_thumb02
+    400136: RIG_Avatar:male_rig:L_thumb03
+    400138: RIG_Avatar:male_rig:L_thumb04
+    400140: RIG_Avatar:male_rig:L_tiny01
+    400142: RIG_Avatar:male_rig:L_tiny02
+    400144: RIG_Avatar:male_rig:L_tiny04
+    400146: RIG_Avatar:male_rig:L_toe
+    400148: RIG_Avatar:male_rig:L_wrist
+    400150: RIG_Avatar:male_rig:Ltiny03
+    400152: RIG_Avatar:male_rig:neck
+    400154: RIG_Avatar:male_rig:R_ankle
+    400156: RIG_Avatar:male_rig:R_clavicle
+    400158: RIG_Avatar:male_rig:R_elbow
+    400160: RIG_Avatar:male_rig:R_foot
+    400162: RIG_Avatar:male_rig:R_hip
+    400164: RIG_Avatar:male_rig:R_index01
+    400166: RIG_Avatar:male_rig:R_index02
+    400168: RIG_Avatar:male_rig:R_index03
+    400170: RIG_Avatar:male_rig:R_index04
+    400172: RIG_Avatar:male_rig:R_knee
+    400174: RIG_Avatar:male_rig:R_mid01
+    400176: RIG_Avatar:male_rig:R_mid02
+    400178: RIG_Avatar:male_rig:R_mid03
+    400180: RIG_Avatar:male_rig:R_mid04
+    400182: RIG_Avatar:male_rig:R_palm
+    400184: RIG_Avatar:male_rig:R_ring01
+    400186: RIG_Avatar:male_rig:R_ring02
+    400188: RIG_Avatar:male_rig:R_ring03
+    400190: RIG_Avatar:male_rig:R_ring04
+    400192: RIG_Avatar:male_rig:R_sldr
+    400194: RIG_Avatar:male_rig:R_thumb01
+    400196: RIG_Avatar:male_rig:R_thumb02
+    400198: RIG_Avatar:male_rig:R_thumb03
+    400200: RIG_Avatar:male_rig:R_thumb04
+    400202: RIG_Avatar:male_rig:R_tiny01
+    400204: RIG_Avatar:male_rig:R_tiny02
+    400206: RIG_Avatar:male_rig:R_tiny04
+    400208: RIG_Avatar:male_rig:R_toe
+    400210: RIG_Avatar:male_rig:R_wrist
+    400212: RIG_Avatar:male_rig:ROOT
+    400214: RIG_Avatar:male_rig:Rtiny03
+    400216: RIG_Avatar:male_rig:spine01
+    400218: RIG_Avatar:male_rig:spine02
+    400220: RIG_Avatar:male_rig:spine03
+    400222: RIG_Avatar:tie01
+    400224: RIG_Avatar:tie02
+    400226: RIG_Avatar:tie03
+    400228: RIG_Avatar:tie04
+    400230: RIG_Avatar:tie05
+    2300000: boy:BoyAnim_eye_001_l
+    2300002: boy:BoyAnim_eye_001_r
+    2300004: boy:BoyAnim_eye_002_l
+    2300006: boy:BoyAnim_eye_002_r
+    2300008: boy:BoyAnim_eye_003_l
+    2300010: boy:BoyAnim_eye_003_r
+    2300012: boy:BoyAnim_eye_005_l
+    2300014: boy:BoyAnim_eye_005_r
+    2300016: boy:BoyAnim_eye_006_l
+    2300018: boy:BoyAnim_eye_006_r
+    2300020: boy:BoyAnim_eye_009_l
+    2300022: boy:BoyAnim_eye_009_r
+    2300024: boy:BoyAnim_eye_010_l
+    2300026: boy:BoyAnim_eye_010_r
+    2300028: boy:BoyAnim_eye_011_l
+    2300030: boy:BoyAnim_eye_011_r
+    2300032: boy:BoyAnim_eyebrows_001_l
+    2300034: boy:BoyAnim_eyebrows_001_r
+    2300036: boy:BoyAnim_eyebrows_002_l
+    2300038: boy:BoyAnim_eyebrows_002_r
+    2300040: boy:BoyAnim_eyebrows_003_l
+    2300042: boy:BoyAnim_eyebrows_003_r
+    2300044: boy:BoyAnim_eyebrows_004_l
+    2300046: boy:BoyAnim_eyebrows_004_r
+    2300048: boy:BoyAnim_eyebrows_005_l
+    2300050: boy:BoyAnim_eyebrows_005_r
+    2300052: boy:BoyAnim_mouth_001
+    2300054: boy:BoyAnim_mouth_002
+    2300056: boy:BoyAnim_mouth_004
+    2300058: boy:BoyAnim_mouth_007
+    2300060: boy:BoyAnim_mouth_008
+    2300062: boy:BoyAnim_mouth_010
+    2300064: boy:BoyAnim_mouth_013
+    3300000: boy:BoyAnim_eye_001_l
+    3300002: boy:BoyAnim_eye_001_r
+    3300004: boy:BoyAnim_eye_002_l
+    3300006: boy:BoyAnim_eye_002_r
+    3300008: boy:BoyAnim_eye_003_l
+    3300010: boy:BoyAnim_eye_003_r
+    3300012: boy:BoyAnim_eye_005_l
+    3300014: boy:BoyAnim_eye_005_r
+    3300016: boy:BoyAnim_eye_006_l
+    3300018: boy:BoyAnim_eye_006_r
+    3300020: boy:BoyAnim_eye_009_l
+    3300022: boy:BoyAnim_eye_009_r
+    3300024: boy:BoyAnim_eye_010_l
+    3300026: boy:BoyAnim_eye_010_r
+    3300028: boy:BoyAnim_eye_011_l
+    3300030: boy:BoyAnim_eye_011_r
+    3300032: boy:BoyAnim_eyebrows_001_l
+    3300034: boy:BoyAnim_eyebrows_001_r
+    3300036: boy:BoyAnim_eyebrows_002_l
+    3300038: boy:BoyAnim_eyebrows_002_r
+    3300040: boy:BoyAnim_eyebrows_003_l
+    3300042: boy:BoyAnim_eyebrows_003_r
+    3300044: boy:BoyAnim_eyebrows_004_l
+    3300046: boy:BoyAnim_eyebrows_004_r
+    3300048: boy:BoyAnim_eyebrows_005_l
+    3300050: boy:BoyAnim_eyebrows_005_r
+    3300052: boy:BoyAnim_mouth_001
+    3300054: boy:BoyAnim_mouth_002
+    3300056: boy:BoyAnim_mouth_004
+    3300058: boy:BoyAnim_mouth_007
+    3300060: boy:BoyAnim_mouth_008
+    3300062: boy:BoyAnim_mouth_010
+    3300064: boy:BoyAnim_mouth_013
+    4300000: boy:hair
+    4300002: boy:tie4
+    4300004: boy:pant
+    4300006: boy:body
+    4300008: boy:shirt2
+    4300010: boy:r_shoe
+    4300012: boy:l_shoe
+    4300014: boy:BoyAnim_mouth_001
+    4300016: boy:BoyAnim_mouth_002
+    4300018: boy:BoyAnim_mouth_013
+    4300020: boy:BoyAnim_mouth_010
+    4300022: boy:BoyAnim_mouth_004
+    4300024: boy:BoyAnim_mouth_007
+    4300026: boy:BoyAnim_mouth_008
+    4300028: boy:BoyAnim_eyebrows_001_l
+    4300030: boy:BoyAnim_eyebrows_001_r
+    4300032: boy:BoyAnim_eyebrows_002_l
+    4300034: boy:BoyAnim_eyebrows_002_r
+    4300036: boy:BoyAnim_eyebrows_003_l
+    4300038: boy:BoyAnim_eyebrows_003_r
+    4300040: boy:BoyAnim_eyebrows_004_l
+    4300042: boy:BoyAnim_eyebrows_004_r
+    4300044: boy:BoyAnim_eyebrows_005_l
+    4300046: boy:BoyAnim_eyebrows_005_r
+    4300048: boy:BoyAnim_eye_001_l
+    4300050: boy:BoyAnim_eye_001_r
+    4300052: boy:BoyAnim_eye_002_l
+    4300054: boy:BoyAnim_eye_002_r
+    4300056: boy:BoyAnim_eye_003_l
+    4300058: boy:BoyAnim_eye_003_r
+    4300060: boy:BoyAnim_eye_005_l
+    4300062: boy:BoyAnim_eye_005_r
+    4300064: boy:BoyAnim_eye_006_l
+    4300066: boy:BoyAnim_eye_006_r
+    4300068: boy:BoyAnim_eye_009_l
+    4300070: boy:BoyAnim_eye_009_r
+    4300072: boy:BoyAnim_eye_011_l
+    4300074: boy:BoyAnim_eye_011_r
+    4300076: boy:BoyAnim_eye_010_l
+    4300078: boy:BoyAnim_eye_010_r
+    7400000: idle
+    7400002: walking
+    7400004: fistPump
+    7400006: happyDance
+    7400008: shrug
+    7400010: sadCrossHand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: boy:body
+    13700002: boy:hair
+    13700004: boy:l_shoe
+    13700006: boy:pant
+    13700008: boy:r_shoe
+    13700010: boy:shirt2
+    13700012: boy:tie4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy:body
+        weight: 1
+      - path: boy:hair
+        weight: 1
+      - path: boy:l_shoe
+        weight: 1
+      - path: boy:pant
+        weight: 1
+      - path: boy:r_shoe
+        weight: 1
+      - path: boy:shirt2
+        weight: 1
+      - path: boy:tie4
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:Hip_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot/RIG_Avatar:male_rig:L_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot/RIG_Avatar:male_rig:R_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03/RIG_Avatar:male_rig:L_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03/RIG_Avatar:male_rig:L_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03/RIG_Avatar:male_rig:L_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03/RIG_Avatar:male_rig:L_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03/RIG_Avatar:male_rig:L_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_001
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_002
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_004
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_007
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_008
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_010
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_013
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head/RIG_Avatar:male_rig:head_top
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03/RIG_Avatar:male_rig:R_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03/RIG_Avatar:male_rig:R_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03/RIG_Avatar:male_rig:R_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03/RIG_Avatar:male_rig:R_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03/RIG_Avatar:male_rig:R_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04/RIG_Avatar:tie05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walking
+      takeName: Take 001
+      firstFrame: 71
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy:body
+        weight: 1
+      - path: boy:hair
+        weight: 1
+      - path: boy:l_shoe
+        weight: 1
+      - path: boy:pant
+        weight: 1
+      - path: boy:r_shoe
+        weight: 1
+      - path: boy:shirt2
+        weight: 1
+      - path: boy:tie4
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:Hip_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot/RIG_Avatar:male_rig:L_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot/RIG_Avatar:male_rig:R_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03/RIG_Avatar:male_rig:L_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03/RIG_Avatar:male_rig:L_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03/RIG_Avatar:male_rig:L_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03/RIG_Avatar:male_rig:L_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03/RIG_Avatar:male_rig:L_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_001
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_002
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_004
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_007
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_008
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_010
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_013
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head/RIG_Avatar:male_rig:head_top
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03/RIG_Avatar:male_rig:R_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03/RIG_Avatar:male_rig:R_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03/RIG_Avatar:male_rig:R_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03/RIG_Avatar:male_rig:R_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03/RIG_Avatar:male_rig:R_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04/RIG_Avatar:tie05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fistPump
+      takeName: Take 001
+      firstFrame: 111
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy:body
+        weight: 1
+      - path: boy:hair
+        weight: 1
+      - path: boy:l_shoe
+        weight: 1
+      - path: boy:pant
+        weight: 1
+      - path: boy:r_shoe
+        weight: 1
+      - path: boy:shirt2
+        weight: 1
+      - path: boy:tie4
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:Hip_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot/RIG_Avatar:male_rig:L_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot/RIG_Avatar:male_rig:R_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03/RIG_Avatar:male_rig:L_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03/RIG_Avatar:male_rig:L_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03/RIG_Avatar:male_rig:L_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03/RIG_Avatar:male_rig:L_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03/RIG_Avatar:male_rig:L_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_001
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_002
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_004
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_007
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_008
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_010
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_013
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head/RIG_Avatar:male_rig:head_top
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03/RIG_Avatar:male_rig:R_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03/RIG_Avatar:male_rig:R_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03/RIG_Avatar:male_rig:R_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03/RIG_Avatar:male_rig:R_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03/RIG_Avatar:male_rig:R_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04/RIG_Avatar:tie05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: happyDance
+      takeName: Take 001
+      firstFrame: 161
+      lastFrame: 206
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy:body
+        weight: 1
+      - path: boy:hair
+        weight: 1
+      - path: boy:l_shoe
+        weight: 1
+      - path: boy:pant
+        weight: 1
+      - path: boy:r_shoe
+        weight: 1
+      - path: boy:shirt2
+        weight: 1
+      - path: boy:tie4
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:Hip_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot/RIG_Avatar:male_rig:L_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot/RIG_Avatar:male_rig:R_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03/RIG_Avatar:male_rig:L_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03/RIG_Avatar:male_rig:L_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03/RIG_Avatar:male_rig:L_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03/RIG_Avatar:male_rig:L_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03/RIG_Avatar:male_rig:L_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_001
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_002
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_004
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_007
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_008
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_010
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_013
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head/RIG_Avatar:male_rig:head_top
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03/RIG_Avatar:male_rig:R_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03/RIG_Avatar:male_rig:R_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03/RIG_Avatar:male_rig:R_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03/RIG_Avatar:male_rig:R_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03/RIG_Avatar:male_rig:R_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04/RIG_Avatar:tie05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: shrug
+      takeName: Take 001
+      firstFrame: 219
+      lastFrame: 278
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy:body
+        weight: 1
+      - path: boy:hair
+        weight: 1
+      - path: boy:l_shoe
+        weight: 1
+      - path: boy:pant
+        weight: 1
+      - path: boy:r_shoe
+        weight: 1
+      - path: boy:shirt2
+        weight: 1
+      - path: boy:tie4
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:Hip_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot/RIG_Avatar:male_rig:L_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot/RIG_Avatar:male_rig:R_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03/RIG_Avatar:male_rig:L_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03/RIG_Avatar:male_rig:L_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03/RIG_Avatar:male_rig:L_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03/RIG_Avatar:male_rig:L_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03/RIG_Avatar:male_rig:L_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_001
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_002
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_004
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_007
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_008
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_010
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_013
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head/RIG_Avatar:male_rig:head_top
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03/RIG_Avatar:male_rig:R_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03/RIG_Avatar:male_rig:R_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03/RIG_Avatar:male_rig:R_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03/RIG_Avatar:male_rig:R_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03/RIG_Avatar:male_rig:R_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04/RIG_Avatar:tie05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sadCrossHand
+      takeName: Take 001
+      firstFrame: 288
+      lastFrame: 398
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy:body
+        weight: 1
+      - path: boy:hair
+        weight: 1
+      - path: boy:l_shoe
+        weight: 1
+      - path: boy:pant
+        weight: 1
+      - path: boy:r_shoe
+        weight: 1
+      - path: boy:shirt2
+        weight: 1
+      - path: boy:tie4
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:Hip_CRTL
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:L_hip/RIG_Avatar:male_rig:L_knee/RIG_Avatar:male_rig:L_ankle/RIG_Avatar:male_rig:L_foot/RIG_Avatar:male_rig:L_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:R_hip/RIG_Avatar:male_rig:R_knee/RIG_Avatar:male_rig:R_ankle/RIG_Avatar:male_rig:R_foot/RIG_Avatar:male_rig:R_toe
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_index01/RIG_Avatar:male_rig:L_index02/RIG_Avatar:male_rig:L_index03/RIG_Avatar:male_rig:L_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_mid01/RIG_Avatar:male_rig:L_mid02/RIG_Avatar:male_rig:L_mid03/RIG_Avatar:male_rig:L_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_ring01/RIG_Avatar:male_rig:L_ring02/RIG_Avatar:male_rig:L_ring03/RIG_Avatar:male_rig:L_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_palm/RIG_Avatar:male_rig:L_tiny01/RIG_Avatar:male_rig:L_tiny02/RIG_Avatar:male_rig:Ltiny03/RIG_Avatar:male_rig:L_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:L_clavicle/RIG_Avatar:male_rig:L_sldr/RIG_Avatar:male_rig:L_elbow/RIG_Avatar:male_rig:L_wrist/RIG_Avatar:male_rig:L_thumb01/RIG_Avatar:male_rig:L_thumb02/RIG_Avatar:male_rig:L_thumb03/RIG_Avatar:male_rig:L_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_006_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_009_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_010_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eye_011_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_001_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_002_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_003_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_004_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_l
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_eyebrows_005_r
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_001
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_002
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_004
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_007
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_008
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_010
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/expression_set/boy:BoyAnim_mouth_013
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:neck/RIG_Avatar:male_rig:Head/RIG_Avatar:male_rig:head_top
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_index01/RIG_Avatar:male_rig:R_index02/RIG_Avatar:male_rig:R_index03/RIG_Avatar:male_rig:R_index04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_mid01/RIG_Avatar:male_rig:R_mid02/RIG_Avatar:male_rig:R_mid03/RIG_Avatar:male_rig:R_mid04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_ring01/RIG_Avatar:male_rig:R_ring02/RIG_Avatar:male_rig:R_ring03/RIG_Avatar:male_rig:R_ring04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_palm/RIG_Avatar:male_rig:R_tiny01/RIG_Avatar:male_rig:R_tiny02/RIG_Avatar:male_rig:Rtiny03/RIG_Avatar:male_rig:R_tiny04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:male_rig:R_clavicle/RIG_Avatar:male_rig:R_sldr/RIG_Avatar:male_rig:R_elbow/RIG_Avatar:male_rig:R_wrist/RIG_Avatar:male_rig:R_thumb01/RIG_Avatar:male_rig:R_thumb02/RIG_Avatar:male_rig:R_thumb03/RIG_Avatar:male_rig:R_thumb04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04
+        weight: 1
+      - path: RIG_Avatar:MAIN_CRTL/RIG_Avatar:male_rig:ROOT/RIG_Avatar:male_rig:spine01/RIG_Avatar:male_rig:spine02/RIG_Avatar:male_rig:spine03/RIG_Avatar:tie01/RIG_Avatar:tie02/RIG_Avatar:tie03/RIG_Avatar:tie04/RIG_Avatar:tie05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

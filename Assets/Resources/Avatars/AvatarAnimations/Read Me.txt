@@ -1,0 +1,18 @@
+Male :
+
+1. normal - 1 to 60
+2. walk - 71 to 101
+3. fistpump - 111 to 156
+4. happy dance - 161 to 206
+5. shrug - 219 to 278
+6. sad cross hand - 288 to 398
+
+
+Female :
+
+1. normal - 1 to 50
+2. walk - 59 to 89
+3. fistpump - 98 to 137
+4. happy dance - 146 to 205
+5. shrug - 214 to 253
+6. sad cross hand - 262 to 321
