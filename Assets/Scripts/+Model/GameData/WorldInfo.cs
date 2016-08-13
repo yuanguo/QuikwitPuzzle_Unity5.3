@@ -286,6 +286,11 @@ public class WorldInfo : CEObject
 		return m_curQuestion;
 	}
 
+	public void clearQuestionInfo()
+	{
+		m_curQuestion = null;
+	}
+
 	public QuestionInfo nextQuestion(bool _changeCurQuestion = true)
 	{
 		QuestionType _type = QuestionType.none;
@@ -329,9 +334,9 @@ public class WorldInfo : CEObject
 		// bonus question
 		// if last question(curquestion)'s type is bonus,
 		// if cur question's position is the position of the bonus's pod
-		// if next pod's position(curQuestionNum + 2) == 10 is the position of the bonus's pod
+		// if next pod's position(curQuestionNum + 1) == 10 is the position of the bonus's pod
 		{
-			if ((m_curQuestion == null  || _type == QuestionType.none) && (curQuestionNum % 10) == 0)
+			if ((m_curQuestion == null) && (curQuestionNum % 10) == 0)
 			{
 				resultQuestion = m_bonusQuestions.nextQuestion();
 				if (resultQuestion == null)
@@ -349,11 +354,11 @@ public class WorldInfo : CEObject
 					return resultQuestion;
 				}
 			}
-
+			
 			if (m_curQuestion != null)
 			{
 				if (((_type == QuestionType.bonus_question) && m_curQuestion.isPassed == false) ||
-					((_type != QuestionType.bonus_question) && (m_curQuestion.isPassed == true) && (curQuestionNum % 10) == 0))
+					((_type != QuestionType.bonus_question) && (m_curQuestion.isPassed == true) && ((curQuestionNum + 1) % 10) == 0))
 				{
 					resultQuestion = m_bonusQuestions.nextQuestion();
 					if (resultQuestion == null)
@@ -493,6 +498,9 @@ public class WorldInfo : CEObject
 			if (data != null &&
 				data.Count > 0)
 			{
+				// clear CurQuestion
+				clearQuestionInfo();
+
 				// regular_questions
 				CollectQuestions tempQuestions = new CollectQuestions();
 				getQuestions(data, "regular_question", tempQuestions);
@@ -506,9 +514,6 @@ public class WorldInfo : CEObject
 				getQuestions(data, "prize_question", tempQuestions);
 				m_prizeQuestions.setQuestions(tempQuestions);
 
-
-				Debug.Log("worldinfo finish parsing question data");
-
 				if (data.ContainsKey("prize_question_position"))
 				{
 					object objPrizeQuestionPositions = data["prize_question_position"];
@@ -517,6 +522,7 @@ public class WorldInfo : CEObject
 						objPrizeQuestionPositions.ToString() != string.Empty)
 					{
 						prizeQuestionPosition = int.Parse(data["prize_question_position"].ToString());
+						Debug.Log("prizeQuestionPosition val " + prizeQuestionPosition.ToString());
 					}
 					else
 						Debug.LogError("prizeQuestionPosition don't have any val");
@@ -528,7 +534,6 @@ public class WorldInfo : CEObject
 					if (strPrizeQuestionShow != string.Empty)
 						showPrizeQuestion = strPrizeQuestionShow == "false" ? false : true;
 				}
-
 
 				if (showPrizeQuestion == true ||
 					prizePodState == 1)
