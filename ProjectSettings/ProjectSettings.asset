@@ -163,7 +163,7 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 2
   androidSplashScreen: {fileID: 2800000, guid: e4af767744c0dd2489490757875493ba, type: 3}
-  AndroidKeystoreName: H:/WorkFlow/tesla/QuikwitPuzzle/Scource/Puzzle/puzzle.keystore
+  AndroidKeystoreName: D:/WorkFlow/tesla/QuikwitPuzzle/Scource/QuikwitPuzzle(Unity5.3)/puzzle.keystore
   AndroidKeyaliasName: quikwit
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
